@@ -1,19 +1,19 @@
 {
-  "name": "vutron",
-  "appId": "com.vutron.vutron",
+  "name": "spark-web-app-runtime",
+  "appId": "store.spark-app.web-app-runtime",
   "version": "1.0.0",
-  "description": "Quick Start Templates for Vite + Vue 3 + Electron",
-  "homepage": "https://vutron.cdget.com",
-  "author": "CDGet <jooy2.contact@gmail.com>",
+  "description": "Spark Store's web app runtime based Vite + Vue 3 + Electron",
+  "homepage": "https://github.com/elysia-best/spark-web-app-runtime",
+  "author": "Elysia <a.elysia@proton.me>",
   "license": "MIT",
   "main": "dist/main/index.js",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/jooy2/vutron.git"
+    "url": "https://github.com/elysia-best/spark-web-app-runtime.git"
   },
   "bugs": {
-    "url": "https://github.com/jooy2/vutron/issues"
+    "url": "https://github.com/elysia-best/spark-web-app-runtime/issues"
   },
   "debug": {
     "env": {
